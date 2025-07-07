@@ -14,3 +14,12 @@
   opacity: 0.5;
   pointer-events: none;
 }
+
+
+.litul-panel--inactivo.ocultar {
+  display: none;
+}
+.litul-panel--inactivo.grisar {
+  opacity: 0.4;
+  pointer-events: none;
+}
